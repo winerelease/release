@@ -1,2 +1,2 @@
 # release
-release sream
+release stream
